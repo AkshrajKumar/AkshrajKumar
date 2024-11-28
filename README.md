@@ -2,14 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gola</h1>
 <h3 align="center">A passionate Web % ML developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/14lHTfJArTiHgoKraqgs3xEt0FF9VW_cb/view?usp=sharing">
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdqaDNlNGYxNmVpa3J1Ynh6cGFrcnRiMTI4ZDJlcWM4ZHFwcGE3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="akshrajkumar" /> </p>
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Web Development, Machine Learning & Deep Learning**
 
 - 📫 How to reach me **ankitkumargola247@gmail.com**
 
