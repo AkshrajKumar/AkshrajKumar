@@ -13,8 +13,8 @@
 <br>
 
 
-<h1 align="center">Hi 👋, I'm Amash Ansari</h1>
-<h3 align="center">Recent Computer Science graduate, honing skills as a DevSecOps🥑 and Cloud☁️ Engineer at a dynamic startup. Passionate about leveraging cutting-edge technologies, contributing to open-source, and fostering growth through learning in public📢</h3>
+<h1 align="center">Hi 👋, I'm Ankit Kumar Gola</h1>
+<h3 align="center">Pursuing Computer Science Engineering, honing skills as a Machine Learning and Artificial Intelligence Engineer at a dynamic startup. Passionate about leveraging cutting-edge technologies, contributing to open-source, and fostering growth through learning in public📢</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/iamamash/iamamash/assets/42666741/87dfb759-060c-4bd3-8242-a1daca6dc256">
