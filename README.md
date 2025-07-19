@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamamash%2Fiamamash&label=VISITORS&labelColor=%23000&countColor=%230A0209"/>
   <br><br>
-  <a href="https://linkedin.com/in/amash-ansari"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Ankit Kumar Gola" /></a>
+  <a href="https://linkedin.com/in/ankitk247"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Ankit Kumar Gola" /></a>
   <a href="mailto:ansari2002ksp@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Amash i.e.   ankitkumargola247@gmail.com" /></a>
   <a href="https://ankitkumargola247.rf.gd"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=bento&logoColor=0A0209" alt="portfolio of Ankit Kumar Gola" ></a>
   <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Ankit Kumar Gola" ></a>
